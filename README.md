@@ -29,7 +29,7 @@ sudo apt install tightvncserver -y
    vncserver
    ```
 
-2. **Hentikan Server VNC setelah mengatur kata sandi:
+2. **Hentikan Server VNC setelah mengatur kata sandi**:
 
    ```bash
    vncserver -kill :1
